@@ -506,6 +506,13 @@ h3 {
     color:#fff;
     background-color:#000B1C;
   }
+  .autor {
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 13px;
+  }
   .f-left,
   .f-right {
     width: 19%;
